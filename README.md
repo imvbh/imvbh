@@ -27,9 +27,8 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/imvbh"><img src="https://github-readme-stats.vercel.app/api?username=imvbh&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="imvbh's GitHub stats" /></a>
 
-<a href="http://www.github.com/imvbh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imvbh&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+![imvbh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=imvbh&theme=vue-dark&hide_border=true)
 
 ![imvbh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imvbh&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
