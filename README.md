@@ -8,8 +8,8 @@
 
 *   🖥️  See my portfolio at [Vaibhav's Portfolio](http://imvbh.netlify.app/)
 *   ✉️  You can contact me at [vaibhavdhumale2003@gmail.com](mailto:vaibhavdhumale2003@gmail.com)
-*   🧠  I'm learning DevOps
-*   🤝  I'm open to collaborating on MERN and Machine Learning
+*   🧠  I'm learning Flutter
+*   🤝  I'm open to collaborating on MERN, Flutter and Machine Learning
 *   🎓  Final year Undergrad at **Gati Shakti Vishwavidyalaya**
 
 ### Skills 
