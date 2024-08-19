@@ -1,5 +1,5 @@
 <h1 align="center">Hey <img  width="40" src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif">, I'm Vaibhav Dhumale</h1>
-<h3 align="center">A Curious Learner from India 🇮🇳</h3>
+<h3 align="center">Curious Learner from India 🇮🇳</h3>
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" style="border-radius:50%">
 
